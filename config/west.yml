@@ -1,6 +1,6 @@
 manifest:
   remotes:
-    - name: tibberssy
+    - name:zmkfirmware
       url-base: https://github.com/zmkfirmware
   projects:
     - name: zmk
