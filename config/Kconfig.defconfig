@@ -1,0 +1,6 @@
+if SHIELD_bluetest
+
+config ZMK_KEYBOARD_NAME
+    default "bluetest"
+
+endif
