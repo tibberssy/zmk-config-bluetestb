@@ -6,11 +6,6 @@
 #
 # board: [ "bluetest" ]
 # shield: [ "bluetest" ]
-# include:
-#   - board: bluetest
-#   - board: nice_nano_v2
-#     shield: reviung41
-#
----
 include:
-  - board: bluetest
+- board: nice_nano_v2
+  shield: bluetest
