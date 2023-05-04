@@ -1,0 +1,11 @@
+file_format: "1"
+id: bluetest
+name: bluetest
+type: shield
+url: https://github.com/GEIGEIGEIST/KLOR
+requires: [nice!nano]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
